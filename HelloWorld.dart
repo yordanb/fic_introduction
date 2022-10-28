@@ -1,3 +1,3 @@
 void main() {
-  print('Hello, World!\nNama saya Yordan Baniara');
+  print('Hello, World!\nNama saya Yordan');
 }
